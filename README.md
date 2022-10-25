@@ -1,5 +1,7 @@
 # FS2K-SDE Dataset
 
+**简体中文**		**[English](README_EN.MD)**
+
 FS2K-SDE指FS2K sketch drawing episode。
 
 > 该数据集是在[@DengPingFan/FS2K](https://github.com/DengPingFan/FS2K)的基础上发展而来，主要对其中的人脸素描图片构造一个从少量笔画到完整素描的数据集，即人脸<-->素描序列。
