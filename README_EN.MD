@@ -56,7 +56,7 @@ FS2K-SDE
 
 ## Contact
 
-This dataset is maintained by David Dai (dw_dai@163.com) and Yutang Li (2018211556@stu.cqupt.edu.cn).
+This dataset is maintained by Dawei Dai (dw_dai@163.com) and his master's student Yutang Li (2018211556@stu.cqupt.edu.cn).
 
 ## Citation
 
