@@ -8,11 +8,15 @@ FS2K-SDE指FS2K sketch drawing episode。
 >
 > **下载：**直接下载仓库中dataset文件夹中的压缩包即可。
 
+### 更新
+
+- 2022/10/25： FS2K-SDE数据集发布！
+
 ## 介绍
 
 我们建立了一个高质量的**人脸素描检索**数据集，取名叫做FS2K-SDE。该**数据集包含2000+人脸图像和14w+素描序列**，每个人脸图像对应的生成了70张人脸素描序列，如下图。
 
-![img](README.assets\wps1.png)
+![img](README.assets/wps1.png)
 
 该数据集包含两个子集，分别为dataset1和dataset2。
 
@@ -47,7 +51,7 @@ FS2K-SDE
 
 ### SLFIR:
 
-![image-20221025130509813](README.assets\image-20221025130509813.png)
+![image-20221025130509813](README.assets/image-20221025130509813.png)
 
 ## 联系我们
 
