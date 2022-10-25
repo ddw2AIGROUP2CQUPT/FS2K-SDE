@@ -1,6 +1,6 @@
 # FS2K-SDE Dataset
 
-**[简体中文](README.md)**		**English**
+**[Chinese](README.md)**		**English**
 
 FS2K-SDE means FS2K sketch drawing episode。
 
@@ -29,7 +29,7 @@ Specifically, **in dataset1 and dataset2**：
 - The contents of the sketch folder are the sketch sequence.
 - The contents of the cleaned folder are obtained by line simplification of the sketch provided with the Deng dataset.
 
-**In accordance with the requirements of the open source license MIT, we do not provide original face images and original face sketches, for this part, please go to this repository [DengPingFan/FS2K (github.com)](https://github.com/DengPingFan/FS2K) to get them. **
+**ATTENTION:** In accordance with the requirements of the open source license MIT, we do not provide **original face images and original face sketches**, for this part, please **go to this repository [DengPingFan/FS2K (github.com)](https://github.com/DengPingFan/FS2K) to get them.** 
 
 ## File Structure
 

@@ -1,6 +1,6 @@
 # FS2K-SDE Dataset
 
-**简体中文**		**[English](README_EN.MD)**
+**Chinese**		**[English](README_EN.MD)**
 
 FS2K-SDE指FS2K sketch drawing episode。
 
