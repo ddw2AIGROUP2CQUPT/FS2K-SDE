@@ -61,4 +61,14 @@ FS2K-SDE
 
 ## 引用
 
-coming soon...
+@INPROCEEDINGS{10095094,
+  author={Dai, Dawei and Li, Yutang and Wang, Liang and Fu, Shiyu and Xia, Shuyin and Wang, Guoyin},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Sketch Less Face Image Retrieval: A New Challenge}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Image retrieval;Signal processing;Acoustics;Task analysis;Speech processing;Faces;Sketch-Based Image Retrieval;Face Sketch;Partial Sketch;Sequence Learning},
+  doi={10.1109/ICASSP49357.2023.10095094}}
+
